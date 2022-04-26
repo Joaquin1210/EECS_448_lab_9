@@ -1,0 +1,39 @@
+body
+{
+	background-color: crimson;
+}
+p 
+{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	color: darkblue; 
+	font-weight: bold;
+}
+td
+{
+	background-color: whitesmoke;
+}
+h1 
+{
+	color: #121212;
+	font-family: serif;
+	font-size: 40px;
+}
+h2 
+{
+	color: #383838;
+	font-family: serif;
+	font-size: 25px;
+}
+h3 
+{
+	color: #5A5A5A;
+	font-family: serif;
+	font-size: 20px;
+}
+h4 
+{
+	color: #5A5A5A;
+	font-family: serif;
+	font-size: 20px;	
+}
